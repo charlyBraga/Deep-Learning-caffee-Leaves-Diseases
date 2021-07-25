@@ -1,2 +1,1 @@
-# DeepLEarning_caffeeLeaves
-This app recognize caffee leaves disease
+Readme in page: https://charlybraga.github.io/Deep-Learning-caffee-Leaves-Diseases/
