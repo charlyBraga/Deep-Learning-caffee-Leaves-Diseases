@@ -1,5 +1,6 @@
 ## Como criar uma Deep Learning para identificar folhas de café doentes
 
+Neste artigo mostra como impelementar uma Deep Learning CNN para detectar doenças em folhas de café, por meio de imagens. 
 You can use the [editor on GitHub](https://github.com/charlyBraga/Deep-Learning-caffee-Leaves-Diseases/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
